@@ -10,6 +10,11 @@ Created by Gloomy Baracuda Studios a freshly formed group of 1st year students s
 
 [Click here to see the trailer.](https://www.youtube.com/watch?v=dQw4w9WgXcQ "BattleBarn trailer")
 
+Controls:
+- Aim - Right stick
+- Move - Left Stick
+- Animal Ability - Left Trigger
+
 ### Blog - Adrian
 
 ### Blog - Beren
