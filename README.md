@@ -6,6 +6,10 @@ Created by Gloomy Baracuda Studios a freshly formed group of 1st year students s
 
 ### Video and Instructions
 
+[![BattleBarn Trailer](https://i.imgur.com/PGq9Re9.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "BattleBarn Trailer")
+
+[Click here to see the trailer.](https://www.youtube.com/watch?v=dQw4w9WgXcQ "BattleBarn trailer")
+
 ### Blog - Adrian
 
 ### Blog - Beren
