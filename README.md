@@ -1,6 +1,18 @@
-## Welcome to the BattleBarn website
+## Welcome
 
 In BattleBarn 2-4 players compete agaisnt one another in a frenzied top down shooter. With 4 different animals to play as, and power ups to mess up your friends, this new game constantly delivers new experiences.
+
+Created by Gloomy Baracuda Studios a freshly created group of 1st year students studying at Falmouth University.
+
+### Video and Instructions
+
+### Blog - Adrian
+
+### Blog - Beren
+
+### Blog - Darren
+
+### Blog - Ryan
 
 ### Markdown Gudie (will help with your blog posts)
 
