@@ -16,6 +16,7 @@ Controls:
 - Animal Ability - Left Trigger
 
 ### Blog - Adrian
+Hi, I'm Adrian, I'm a programmer and I mainly worked on implementing the different character shooting and ability mechanics. I also worked on the spawning system and made certain objects/obstacles destructible in the play space.
 
 ### Blog - Beren
 
