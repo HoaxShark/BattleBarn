@@ -1,6 +1,8 @@
 ## Welcome
 
-In BattleBarn 2-4 players compete agaisnt one another in a frenzied top down shooter. With 4 different animals to play as, and power ups to mess up your friends, this new game constantly delivers new experiences.
+In BattleBarn 2-4 players compete agaisnt one another in a frenzied top down shooter. With 4 different animals to play as, and power ups to mess up your friends, this game can constantly delivers new experiences.
+
+The games last for a short amount of time letting you pick up and play during group gatherings really easily. With a focus on power ups debilitating your enemies you get plenty of oppertunities to annoy your friends!
 
 Created by Gloomy Baracuda Studios a freshly formed group of 1st year students studying at Falmouth University.
 
