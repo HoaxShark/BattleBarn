@@ -10,10 +10,23 @@ Created by Gloomy Baracuda Studios a freshly formed group of 1st year students s
 
 [![BattleBarn Trailer](https://i.imgur.com/4etFEJ1.jpg)](https://youtu.be/rlgZfpDi7L8 "BattleBarn Trailer")
 ![BattleBarn Instructions](https://i.imgur.com/2qu7pWc.jpg)
+![Cow Shooting](https://i.imgur.com/Gpps8X4.png)
+![4-player Map Night](https://i.imgur.com/WKQ0o9y.jpg)
+![2-player Map Day](https://i.imgur.com/miOqbS1.jpg)
+![Scarecrow](https://i.imgur.com/2Cu1sPa.jpg)
+
 
 
 ### Blog - Adrian
-Hi, I'm Adrian, I'm a programmer and I mainly worked on implementing the different character shooting and ability mechanics. I also worked on the spawning system and made certain objects/obstacles destructible in the play space. Not knowing Unreal very well or C++ I was quite slow at implementing things at the beginning of the project and as a result ended up mainly using blueprints to program the majority of the game. As the project progressed, I became more confident with Unreal and blueprints so managed to implement the majority of what the designers requested, even using C++ - in an albeit limited way - for some parts of the character mechanics. All in all I have learned a lot from this project and hope to improve upon my perhaps inefficienct programming techiques in future projects.
+Hi, I'm Adrian, I'm a programmer and I mainly worked on creating and implementing the different character shooting and ability mechanics. I also worked on the spawning system, made certain objects/obstacles destructible in the play space and helped integrate some of the sound effects. 
+
+Not knowing Unreal very well or C++, I was quite slow at implementing things at the beginning of the project and as a result ended up mainly using blueprints to program the majority of the game. As the project progressed, I became more confident with Unreal and blueprints so managed to implement the majority of what the designers requested, even using C++ - in an albeit limited way - for some parts of the character mechanics.
+
+We had a hard time using Unreal during the first few weeks and this seemed to sap morale amongst the team a bit. This led to me doing a lot of the core parts of our game which, given my lack of knowledge in the subject, means that alot of the game was made in a less that efficient manner. This unnecesarily complicated future systems, evidenced in the later stages of development when trying to devise a score system. A lot of my programming for the damage dealing system relied on each player detecting which character projectile was colliding with them, and then calculating the damage done to to that player being hit using a function specific to the projectile of the attacking player (such as HitByCow()) to lower the defending players health. This is all done individually in each character blueprint with every function originating in the base class BattlebarnPawn, from which each character BP inherits. 
+![HitByCow function](https://i.imgur.com/GbYpE2e.png)
+I think a better way of detecting damage and how players kill other players would have been to use casting or another method better suited that I wasn't aware of when making it. This meant it was very difficult when trying to determine which player killed another player, hence making a score system troublesome and require a lot of assistance to help create.
+
+All in all I have learned a lot from this project and hope to improve upon my perhaps inefficienct programming techiques in future projects.
 
 ### Blog - Beren
 Hello, I'm another programmer, I worked on generating a UI with the main menu and the in game UI and helped with ability mechanics, unfortunately a lot of what I did at the start of the project didn't make it into the main game, I felt as though even though I had never worked with unreal I had been very productive at the start of the project, however due to some mistakes with version control and working on seperate builds much of what I had done at the start of the project never made it into the game. In my next project I feel as though I need to keep up my enthusiasm and work ethic throughout the project. I think in the next game I would enjoy working in C++ much more as I understand how C++ works with unreal much better. I have to commend Adrian for helping out and doing a substantial amount of the game.
