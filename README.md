@@ -4,7 +4,7 @@ In BattleBarn 2-4 players compete agaisnt one another in a frenzied top down sho
 
 The games last for a short amount of time letting you pick up and play during group gatherings really easily. With a focus on power ups debilitating your enemies you get plenty of opportunities to annoy your friends!
 
-Created by Gloomy Baracuda Studios a freshly formed group of 1st year students studying at Falmouth University.
+Created by Gloomy Barracuda Studios a freshly formed group of 1st year students studying at Falmouth University.
 
 ### Video and Instructions
 
