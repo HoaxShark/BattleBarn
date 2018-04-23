@@ -21,14 +21,6 @@ Hello, I'm another programmer, I worked on generating a UI with the main menu an
 ### Blog - Darren
 
 ### Blog - Ryan
-
-To complete Part D, reflect on how your invididual contributions are adding value. Focus on one key contribution. Gather your thoughts into a short blog post to your GitHub pages site (from Part A). Illustrate the engineering aspects using appropriate diagrams and data analyses. Upload a link to your blog post to the review activity on LearningSpace ahead of the session in Week 9.
-
-Write, as an individual, a blog post for the GitHub Pages site which will:
-1. introduce yourself and the area of the game you are working on;
-2. describe the architecture and engineering of the game;
-3. analyse the engineering quality of the game and your component.
-----------------------------------------------------------------------------------------------
 My name is Ryan Clarke, I'm a first year programmer studying Computing for Games BSc at Falmouth University. The main area of BattleBarn that I focused on was the power ups and how they interact with the players.
 
 The power ups are one of our main unique selling points, they were designed to be focused on weakening your enimies, instead of the more common type that would buff the player collecting it. We hoped this would create a fun way of annoying your friends while still giving you an advantage.
