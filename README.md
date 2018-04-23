@@ -9,7 +9,7 @@ Created by Gloomy Baracuda Studios a freshly formed group of 1st year students s
 ### Video and Instructions
 
 [![BattleBarn Trailer](https://i.imgur.com/4etFEJ1.jpg)](https://youtu.be/rlgZfpDi7L8 "BattleBarn Trailer")
-![BattleBarn Instructions](https://imgur.com/a/bTY2eUo)
+![BattleBarn Instructions](https://i.imgur.com/2qu7pWc.jpg)
 
 
 ### Blog - Adrian
