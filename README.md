@@ -13,6 +13,7 @@ Created by Gloomy Baracuda Studios a freshly formed group of 1st year students s
 ![Cow Shooting](https://i.imgur.com/TzvtRgB.png)
 ![4-player Map Night](https://i.imgur.com/WKQ0o9y.jpg)
 ![Scarecrow](https://i.imgur.com/fWaAr01.jpg)
+![Goat Shooting](https://i.imgur.com/0xaChTW.png)
 ![2-player Map Day](https://i.imgur.com/miOqbS1.jpg)
 ![Scarecrow](https://i.imgur.com/2Cu1sPa.jpg)
 
