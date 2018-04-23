@@ -12,10 +12,9 @@ Created by Gloomy Baracuda Studios a freshly formed group of 1st year students s
 ![BattleBarn Instructions](https://i.imgur.com/2qu7pWc.jpg)
 ![Cow Shooting](https://i.imgur.com/Gpps8X4.png)
 ![4-player Map Night](https://i.imgur.com/WKQ0o9y.jpg)
+![Scarecrow](https://i.imgur.com/fWaAr01.jpg)
 ![2-player Map Day](https://i.imgur.com/miOqbS1.jpg)
 ![Scarecrow](https://i.imgur.com/2Cu1sPa.jpg)
-
-
 
 ### Blog - Adrian
 Hi, I'm Adrian, I'm a programmer and I mainly worked on creating and implementing the different character shooting and ability mechanics. I also worked on the spawning system, made certain objects/obstacles destructible in the play space and helped integrate some of the sound effects. 
