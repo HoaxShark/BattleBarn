@@ -1,12 +1,13 @@
 ## Welcome
 
-In BattleBarn 2-4 players compete agaisnt one another in a frenzied top down shooter. With 4 different animals to play as, and power ups to mess up your friends, this game can constantly delivers new experiences.
+In BattleBarn 2-4 players compete against one another in a frenzied top down shooter. With 4 different animals to play as, and power ups to mess up your friends, this game can constantly deliver new experiences.
 
-The games last for a short amount of time letting you pick up and play during group gatherings really easily. With a focus on power ups debilitating your enemies you get plenty of opportunities to annoy your friends!
+The games last for a short amount of time letting you pick up and play during group gatherings really easily. With a focus on power ups debilitating your enemies, you get plenty of opportunities to annoy your friends!
 
 Unique Selling Points;
 1. Power ups that debuff your enemies!
 2. Dark cartoony farmyard aesthetic.
+3. Destructible environment.
 
 Created by Gloomy Barracuda Studios a freshly formed group of 1st year students studying at Falmouth University.
 
@@ -48,7 +49,7 @@ This unnecesarily complicated future systems, evidenced in the later stages of d
 
 I think a better way of detecting damage and how players kill other players would have been to use casting or another method better suited that I wasn't aware of when making it. This meant it was very difficult when trying to determine which player killed another player, hence making a score system troublesome and require a lot of assistance to help create.
 
-All in all I have learned a lot from this project and hope to improve upon my perhaps inefficienct programming techiques in future projects.
+All in all I have learned a lot from this project and hope to improve upon my perhaps inefficient programming techiques in future projects.
 
 ### Blog - Beren
 Hello, I'm another programmer, I worked on generating a UI with the main menu and the in game UI and helped with ability mechanics, unfortunately a lot of what I did at the start of the project didn't make it into the main game, I felt as though even though I had never worked with unreal I had been very productive at the start of the project, however due to some mistakes with version control and working on seperate builds much of what I had done at the start of the project never made it into the game. In my next project I feel as though I need to keep up my enthusiasm and work ethic throughout the project. I think in the next game I would enjoy working in C++ much more as I understand how C++ works with unreal much better. I have to commend Adrian for helping out and doing a substantial amount of the game.
