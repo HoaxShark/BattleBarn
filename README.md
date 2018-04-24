@@ -10,15 +10,26 @@ Unique Selling Points;
 
 Created by Gloomy Barracuda Studios a freshly formed group of 1st year students studying at Falmouth University.
 
-### Video and Instructions
+### Video
 
 [![BattleBarn Trailer](https://i.imgur.com/4etFEJ1.jpg)](https://youtu.be/rlgZfpDi7L8 "BattleBarn Trailer")
+
+### Instructions
+
 ![BattleBarn Instructions](https://i.imgur.com/2qu7pWc.jpg)
+
+### Screenshots
+
 ![Cow Shooting](https://i.imgur.com/TzvtRgB.png)
+
 ![4-player Map Night](https://i.imgur.com/WKQ0o9y.jpg)
+
 ![Scarecrow](https://i.imgur.com/fWaAr01.jpg)
+
 ![Goat Shooting](https://i.imgur.com/0xaChTW.png)
+
 ![2-player Map Day](https://i.imgur.com/miOqbS1.jpg)
+
 ![Scarecrow](https://i.imgur.com/2Cu1sPa.jpg)
 
 ### Blog - Adrian
