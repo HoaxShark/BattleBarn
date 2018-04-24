@@ -80,7 +80,3 @@ Overall working on the group project has been useful when it comes to learning a
 ### Blog - Darren
 N/A
 
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
