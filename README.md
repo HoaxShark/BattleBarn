@@ -57,9 +57,6 @@ The game was simple, however the biggest struggle for us was getting a spawn for
 
 At the start of the project there were many issues with version control with unreal due to intermediate folders. This ment that a few different builds had to be created, however after learning from a lecturer about builds and regenerating visual studio files we had much fewer issues.
 
-### Blog - Darren
-NA
-
 ### Blog - Ryan
 My name is Ryan Clarke, I'm a first year programmer studying Computing for Games BSc at Falmouth University. The main area of BattleBarn that I focused on was the power ups and how they interact with the players.
 
@@ -79,27 +76,10 @@ Another change I would like to have made is writing the power ups and how they a
 
 Overall working on the group project has been useful when it comes to learning about how unreal can interact with some C++ code but mainly how Blueprints work and can work with different things in Unreal. I look forward to the next project where I don't have to learn as much of the basic foundations and can hopefully build more sections using C++.
 
+### Blog - Darren
+N/A
 
-### Markdown Gudie (will help with your blog posts)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
