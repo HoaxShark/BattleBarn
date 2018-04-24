@@ -4,6 +4,10 @@ In BattleBarn 2-4 players compete agaisnt one another in a frenzied top down sho
 
 The games last for a short amount of time letting you pick up and play during group gatherings really easily. With a focus on power ups debilitating your enemies you get plenty of opportunities to annoy your friends!
 
+Unique Selling Points;
+1. Power ups that debuffs your enemies!
+2. Dark cartoony farmyard aesthetic.
+
 Created by Gloomy Barracuda Studios a freshly formed group of 1st year students studying at Falmouth University.
 
 ### Video and Instructions
