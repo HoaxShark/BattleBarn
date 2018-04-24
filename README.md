@@ -39,6 +39,7 @@ All in all I have learned a lot from this project and hope to improve upon my pe
 Hello, I'm another programmer, I worked on generating a UI with the main menu and the in game UI and helped with ability mechanics, unfortunately a lot of what I did at the start of the project didn't make it into the main game, I felt as though even though I had never worked with unreal I had been very productive at the start of the project, however due to some mistakes with version control and working on seperate builds much of what I had done at the start of the project never made it into the game. In my next project I feel as though I need to keep up my enthusiasm and work ethic throughout the project. I think in the next game I would enjoy working in C++ much more as I understand how C++ works with unreal much better. I have to commend Adrian for helping out and doing a substantial amount of the game.
 
 ### Blog - Darren
+NA
 
 ### Blog - Ryan
 My name is Ryan Clarke, I'm a first year programmer studying Computing for Games BSc at Falmouth University. The main area of BattleBarn that I focused on was the power ups and how they interact with the players.
