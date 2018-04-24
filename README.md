@@ -58,6 +58,7 @@ The game was simple, however the biggest struggle for us was getting a spawn for
 At the start of the project there were many issues with version control with unreal due to intermediate folders. This ment that a few different builds had to be created, however after learning from a lecturer about builds and regenerating visual studio files we had much fewer issues.
 
 ### Blog - Darren
+NA
 
 ### Blog - Ryan
 My name is Ryan Clarke, I'm a first year programmer studying Computing for Games BSc at Falmouth University. The main area of BattleBarn that I focused on was the power ups and how they interact with the players.
